@@ -7,8 +7,5 @@ public class areaofsquare {
         double area = side*side;
 
         System.out.println("The area of the square is:"+ area+"Square units");
-
-        int $ = 1;
-        System.out.print($);
     }
 }
