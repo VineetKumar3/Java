@@ -5,9 +5,6 @@ public class funtionthree {
         System.out.print("The sum is: "+ sum);
         return sum;
     }
-
-
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the number a:");
