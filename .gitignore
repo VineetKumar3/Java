@@ -1,0 +1,6 @@
+# Ignore all JSON files in the repository
+*.json
+
+# If you want to keep some JSON files tracked, add exceptions like:
+# !package.json
+# !some-folder/keep.json
